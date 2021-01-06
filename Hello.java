@@ -5,5 +5,7 @@ public class Hello {
       System.out.println("New Line 2");
       System.out.println("New Line 3");
 
+	System.out.println("External is successfull");
+
    }
 }
